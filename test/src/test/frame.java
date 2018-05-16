@@ -7,14 +7,15 @@ package test;
 
 /**
  *
- * @author gbiskup
+ * @author BXGrzesiek
  */
 public class frame extends javax.swing.JFrame {
 
     /**
      * Creates new form frame
      */
-    public frame() {
+    public frame() 
+    {
         initComponents();
         
     }
